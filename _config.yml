@@ -1,5 +1,0 @@
-include: [CNAME]
-exclude: [CNAME]
-
-host: rutilea.com
-enforce_ssl: true
